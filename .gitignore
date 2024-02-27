@@ -1,0 +1,11 @@
+.DS_Store
+*.dSYM/
+*.out
+*.pyc
+*.o
+*.a
+*.so
+*.log
+*.sql
+*.sh
+.vscode/
